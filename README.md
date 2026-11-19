@@ -21,7 +21,7 @@
   <img src="media/demo.gif" alt="Simulator: holding the joystick button switches to Slide mode, then the chair slides right, left and diagonally without turning" width="800">
 </p>
 
-<p align="center"><a href="media/demo.mp4"><b>Watch the full demo video (46 s)</b></a> &nbsp;·&nbsp; <a href="https://sujailxd.github.io/joystick-wheelchair-4mecanum/"><b>Live demo site and simulator</b></a></p>
+<p align="center"><a href="media/demo.mp4"><b>Watch the full demo video (46 s)</b></a> &nbsp;·&nbsp; <a href="https://sujailxd.github.io/joystick-Wheelchair/"><b>Live demo site and simulator</b></a></p>
 
 ---
 
@@ -137,7 +137,7 @@ arduino-cli upload  --fqbn arduino:avr:uno -p COM3 firmware/joystick_wheelchair_
 
 ## Try it without hardware
 
-Open [`simulator/index.html`](simulator/index.html) in a browser, or use the [live simulator](https://sujailxd.github.io/joystick-wheelchair-4mecanum/simulator/). Drag the joystick (or use W A S D), tap **Space** to start, and **hold Space for one second** while stopped to switch to Slide mode. It runs the same mixing as the Arduino code and shows the joystick readings, all four motor speeds and every L298N pin.
+Open [`simulator/index.html`](simulator/index.html) in a browser, or use the [live simulator](https://sujailxd.github.io/joystick-Wheelchair/simulator/). Drag the joystick (or use W A S D), tap **Space** to start, and **hold Space for one second** while stopped to switch to Slide mode. It runs the same mixing as the Arduino code and shows the joystick readings, all four motor speeds and every L298N pin.
 
 | Turning on the spot | Sliding sideways |
 |---|---|
